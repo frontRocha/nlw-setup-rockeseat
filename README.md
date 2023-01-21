@@ -1,8 +1,8 @@
 <h1>Introdução</h1>
 <p>O projeto "nlw-setup-rocketseat" é uma aplicação completa que utiliza o Prisma, o Fastify, o Vite como front-end e Tailwind. Ele permite que os usuários criem hábitos diários, adicionando os dias da semana em que esses hábitos serão realizados, marcando-os como concluídos e tendo uma opacidade que fica mais clara conforme os hábitos são concluídos. </p>
 
-<h3>Apresentação visual<h3>
-<img src=""/>
+<h2>Apresentação visual<h2>
+<img src="https://raw.githubusercontent.com/frontRocha/nlw-setup-rockeseat/master/apresenta%C3%A7%C3%A3o.png" width="600px"/>
 
 <h1>Requisitos</h1>
 <p>Para executar esse projeto você precisará ter instalado:</p>
